@@ -1,6 +1,6 @@
 <img src="https://github.com/EmrhSGLM/EmrhSGLM/blob/main/github.jpg?raw=true">
 
-<h1 align="center">Hi, 👌 I'm Emrah SAGLAM>
+<h1 align="center">Hi, 👌 I'm Emrah Saglam>
   
 <h3 align="center">Software Developer Engineering in Test</h3>
   
