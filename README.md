@@ -4,4 +4,8 @@
   
 <h3 align="center">Software Developer Engineering in Test</h3>
   
+
+<ul>
+  <li>Ask me about Java, Lambda, mySQL, HTML, CSS, Selenium </li>
+</ul>
   
