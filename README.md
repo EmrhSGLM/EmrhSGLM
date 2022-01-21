@@ -6,6 +6,6 @@
   
 
 <ul>
-  <li>Ask me about Java, Lambda, mySQL, HTML, CSS, Selenium </li>
+  <li> 💬 Ask me about <b>Java, Lambda, mySQL, HTML, CSS, Selenium </b></li>
 </ul>
   
