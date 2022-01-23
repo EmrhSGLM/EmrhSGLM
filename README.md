@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrhsglm" alt="emrhsglm" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-  [![Linkedin Badge](https://linkedin.com/in/emrhsglm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://linkedin.com/in/emrhsglm-/)](https://linkedin.com/in/emrhsglm-/) [![Gmail Badge](https://img.shields.io/badge/-emrh.sglm7168@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emrh.sglm7168@gmail.com)](mailto:emrh.sglm7168@gmail.com)
+ .[![Linkedin Badge](https://linkedin.com/in/emrhsglm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://linkedin.com/in/emrhsglm-/)](https://linkedin.com/in/emrhsglm-/) [![Gmail Badge](https://img.shields.io/badge/-emrh.sglm7168@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emrh.sglm7168@gmail.com)](mailto:emrh.sglm7168@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
