@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, 👌 I'm Emrah Saglam>
   
- ![snake gif](https://github.com/EmrhSGLM/EmrhSGLM/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/EmrhSGLM/Java/blob/output/github-contribution-grid-snake.gif)
   
 <h3 align="center">Software Developer Engineering in Test</h3>
   
