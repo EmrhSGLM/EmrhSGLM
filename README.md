@@ -6,7 +6,7 @@
   
 
 <ul>
-  <li> 💬 Ask me about <b>Java, Lambda, mySQL, HTML, CSS, Selenium </b></li>
+  <li> 💬 Ask me about <b>Java, Lambda, mySQL, HTML, CSS, Selenium, JUnit, TestNG </b></li>
 </ul>
   
 
