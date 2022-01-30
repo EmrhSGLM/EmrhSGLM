@@ -31,6 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrhsglm&show_icons=true&locale=en&layout=compact"  alt="emrhsglm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrhsglm&show_icons=true&locale=en" alt="emrhsglm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrhsglm&" alt="emrhsglm" /></p>
