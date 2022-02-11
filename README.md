@@ -4,7 +4,7 @@
   
 <h3 align="center">Software Developer Engineering in Test</h3>
   
-  github-contribution-grid-snake.gif
+
 
 <ul>
   <li> 💬 Ask me about <b>Java, Lambda, mySQL, HTML, CSS, Selenium, JUnit, TestNG </b></li>
