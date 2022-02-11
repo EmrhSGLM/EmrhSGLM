@@ -1,9 +1,7 @@
 <img src="https://github.com/EmrhSGLM/EmrhSGLM/blob/main/github.jpg?raw=true">
 
-<h1 align="center">Hi, 👌 I'm Emrah Saglam>
-  
-<h3 align="center">Software Developer Engineering in Test</h3>
-  
+<h1 align="center">Hi, 👌 I'm Emrah Saglam>  
+<h3 align="center">Software Developer Engineering in Test</h3>  
 ![snake svg](https://github.com/EmrhSGLM/EmrhSGLM/blob/output/github-contribution-grid-snake.svg)
 
 <ul>
