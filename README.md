@@ -7,6 +7,7 @@
 ![snake svg](https://github.com/EmrhSGLM/EmrhSGLM/blob/output/github-contribution-grid-snake.svg)
 
 <ul>
+  <li> 🌱 I’m currently learning Cypress, Appium </b></li>
   <li> 💬 Ask me about <b>Java, Lambda, mySQL, HTML, CSS, Selenium, JUnit, TestNG, Cucumber, Postman, JDBC, Jira - Jira XRay </b></li>
 </ul>
   
@@ -19,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/emrhsglm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrhsglm" height="30" width="40" /></a>
 </p>
-[![Linkedin Badge](https://img.shields.io/badge/-EmrahSAGLAM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/emrhsglm/)](https://www.linkedin.com/emrhsglm/) 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
