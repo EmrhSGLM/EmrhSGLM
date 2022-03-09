@@ -7,7 +7,7 @@
 ![snake svg](https://github.com/EmrhSGLM/EmrhSGLM/blob/output/github-contribution-grid-snake.svg)
 
 <ul>
-  <li> 💬 Ask me about <b>Java, Lambda, mySQL, HTML, CSS, Selenium, JUnit, TestNG </b></li>
+  <li> 💬 Ask me about <b>Java, Lambda, mySQL, HTML, CSS, Selenium, JUnit, TestNG, Cucumber, Postman, JDBC, Jira - Jira XRay </b></li>
 </ul>
   
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emrhsglm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrhsglm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emrhsglm" target="blank"><[![Linkedin Badge](https://img.shields.io/badge/-EmrahSAGLAM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/emrhsglm/))></a>
 </p>
 
 
