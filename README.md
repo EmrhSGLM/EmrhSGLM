@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, 👌 I'm Emrah Saglam>  
   
-<h3 align="center">Software Development Engineering in Test</h3>  
+<h3 align="center">SDET and Full Stack Automation Tester </h3>  
   
 ![snake svg](https://github.com/EmrhSGLM/EmrhSGLM/blob/output/github-contribution-grid-snake.svg)
 
